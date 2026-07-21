@@ -1,4 +1,4 @@
-class CurrencyConverterTool:
+class CurrencyConverter:
     def __init__(self):
         pass
 
